@@ -26,8 +26,8 @@ Serdivan Belediyesi Bilgi İşlem Müdürlüğü bünyesinde, şehir hayatını 
 
 ### 📊 GitHub İstatistiklerim
 
-![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaangedikli&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaangedikli&layout=compact&theme=tokyonight)
+![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkaan7&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkaan7&layout=compact&theme=tokyonight)
 
 ---
 
