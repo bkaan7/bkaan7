@@ -25,6 +25,9 @@ Serdivan Belediyesi Bilgi İşlem Müdürlüğü bünyesinde, şehir hayatını 
 ---
 
 ### ✍️ Son Blog Yazılarım
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 
 ### 📊 GitHub İstatistiklerim
