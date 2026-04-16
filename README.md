@@ -22,13 +22,9 @@ Serdivan Belediyesi Bilgi İşlem Müdürlüğü bünyesinde, şehir hayatını 
 | **Backend & CMS** | Python, Strapi, Node.js |
 | **Veritabanı & CBS** | PostgreSQL, SQLite |
 
+---
+
 ### ✍️ Son Blog Yazılarım
-name: Latest blog post workflow
-on:
-  schedule:
-    - cron: '0 0 * * *'
-
-
 ---
 
 ### 📊 GitHub İstatistiklerim
