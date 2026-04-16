@@ -46,5 +46,6 @@ Serdivan Belediyesi Bilgi İşlem Müdürlüğü bünyesinde, şehir hayatını 
 
 - **Blog:** [kaangedikli.wordpress.com](https://kaangedikli.wordpress.com)
 - **Kurum:** Serdivan Belediyesi Bilgi İşlem Müdürlüğü
+- **Mail:** bkgedikli@gmail.com
 
 *"Don't Panic."* — 42.
