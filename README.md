@@ -22,6 +22,27 @@ Serdivan Belediyesi Bilgi İşlem Müdürlüğü bünyesinde, şehir hayatını 
 | **Backend & CMS** | Python, Strapi, Node.js |
 | **Veritabanı & CBS** | PostgreSQL, SQLite |
 
+### ✍️ Son Blog Yazılarım
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in wordpress posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://kaangedikli.wordpress.com/feed/"
+          max_post_count: 5
+
+
 ---
 
 ### 📊 GitHub İstatistiklerim
