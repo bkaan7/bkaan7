@@ -17,7 +17,7 @@ Serdivan Belediyesi Bilgi İşlem Müdürlüğü bünyesinde, şehir hayatını 
 
 | Alan | Teknolojiler |
 | :--- | :--- |
-| **Frontend** | React, JavaScript, HTML5, CSS3, Tailwind |
+| **Frontend** | React, JavaScript, HTML5, CSS3 |
 | **Backend & CMS** | Python, Strapi, Node.js |
 | **Veritabanı & CBS** | PostgreSQL, SQLite |
 
