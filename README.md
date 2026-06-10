@@ -9,7 +9,6 @@ Serdivan Belediyesi Bilgi İşlem Müdürlüğü bünyesinde, şehir hayatını 
 ### 🛠️ Nelerle Uğraşıyorum?
 
 - 📱 **Web:** React ve Strapi kullanarak modern, kullanıcı dostu arayüzler geliştiriyorum.
-- 🗺️ **GIS / CBS:** Leaflet kütüphanesi ile interaktif harita sistemleri ve Saha Takip Sistemleri kurguluyorum.
 - 🐍 **Backend:** Python ile veri yönetimi ve otomasyon süreçlerini yönetiyorum.
 
 ---
