@@ -26,11 +26,11 @@ Serdivan Belediyesi Bilgi İşlem Müdürlüğü bünyesinde, şehir hayatını 
 ### ✍️ Son Blog Yazılarım
 
 <!-- BLOG-POST-LIST:START -->
-- [Piri Reis Bir Front-End Geliştirici Olsaydı?](https://kaangedikli.wordpress.com/2026/06/07/piri-reis-bir-front-end-gelistirici-olsaydi/)
-- [Devasa Şeyler Karşısında Neden Küçülürüz?](https://kaangedikli.wordpress.com/2026/04/11/devasa-seyler-karsisinda-neden-kuculuruz/)
-- [Kurumsal Envanter Yönetimi: Snipe-IT Kurulumu ve Sistem Entegrasyonları Rehberi](https://kaangedikli.wordpress.com/2026/04/05/kurumsal-envanter-yonetimi-snipe-it-kurulumu-ve-sistem-entegrasyonlari-rehberi/)
-- [Müzik, Uyum ve Sanat](https://kaangedikli.wordpress.com/2026/03/28/muzik-uyum-ve-sanat/)
-- [Yapay Zeka ve Müzik Üzerine Düşüncelerim](https://kaangedikli.wordpress.com/2025/12/28/yapay-zeka-ve-muzik-uzerine-dusuncelerim/)
+- [Piri Reis Bir Front-End Geliştirici Olsaydı?](https://kaangedikli.com/2026/06/07/piri-reis-bir-front-end-gelistirici-olsaydi/)
+- [Devasa Şeyler Karşısında Neden Küçülürüz?](https://kaangedikli.com/2026/04/11/devasa-seyler-karsisinda-neden-kuculuruz/)
+- [Kurumsal Envanter Yönetimi: Snipe-IT Kurulumu ve Sistem Entegrasyonları Rehberi](https://kaangedikli.com/2026/04/05/kurumsal-envanter-yonetimi-snipe-it-kurulumu-ve-sistem-entegrasyonlari-rehberi/)
+- [Müzik, Uyum ve Sanat](https://kaangedikli.com/2026/03/28/muzik-uyum-ve-sanat/)
+- [Yapay Zeka ve Müzik Üzerine Düşüncelerim](https://kaangedikli.com/2025/12/28/yapay-zeka-ve-muzik-uzerine-dusuncelerim/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
